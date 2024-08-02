@@ -1,11 +1,12 @@
 ---
 created: 2024-07-21T19:03
-updated: 2024-07-21T22:39
+updated: 2024-08-02T17:54
 ---
 **Types of Storage:**
 - Block Storage
 - File Storage - network file system
-- Object Storage
+- Object Storage - can be used in running instances - S3
+
 
 **Performance Mode:**
 - provisioned  mode -  fixed resources 
@@ -110,3 +111,10 @@ Max - 10
 
 Object storage & s3 
 database - SQL and NOSQL
+
+
+**S3 - Simple Storage Service** -
+- Object storage
+- store and retrieve any amount of data
+- store data in buckets
+- 
