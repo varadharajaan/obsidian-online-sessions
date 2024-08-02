@@ -1,6 +1,6 @@
 ---
 created: 2024-07-20T12:26
-updated: 2024-07-20T22:18
+updated: 2024-08-02T17:36
 ---
 **CLOUD COMPUTING:**
 Pay-as-you-go model for computing resources. 
