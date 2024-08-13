@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T19:03
-updated: 2024-08-02T17:54
+updated: 2024-08-13T22:43
 ---
 **Types of Storage:**
 - Block Storage
@@ -117,4 +117,5 @@ database - SQL and NOSQL
 - Object storage
 - store and retrieve any amount of data
 - store data in buckets
-- 
+
+aws vs azure vs google cloud
