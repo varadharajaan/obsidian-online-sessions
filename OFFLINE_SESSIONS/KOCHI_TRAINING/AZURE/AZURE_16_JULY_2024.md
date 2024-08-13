@@ -1,6 +1,8 @@
 ---
 created: 2024-07-16T09:22
-updated: 2024-08-02T16:35
+updated: 2024-08-13T23:17
+share_link: https://share.note.sx/03ars6cl#mfsQlIG7zafaxbO4FZ5lTIcOyZAWstHQeW6GjkbkKhA
+share_updated: 2024-08-13T23:17:39+05:30
 ---
 
 horizontal scaling
