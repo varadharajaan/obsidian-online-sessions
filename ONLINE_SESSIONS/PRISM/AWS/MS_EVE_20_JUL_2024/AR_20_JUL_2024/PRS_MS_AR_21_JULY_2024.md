@@ -1,6 +1,8 @@
 ---
 created: 2024-07-21T19:03
-updated: 2024-08-13T22:43
+updated: 2024-08-13T22:55
+share_link: https://share.note.sx/5liemb38#F6RhrbSrUNryRcj2A5ggsPPxTB+fHCEjakcP06D25Ak
+share_updated: 2024-08-13T22:55:39+05:30
 ---
 **Types of Storage:**
 - Block Storage
