@@ -1,10 +1,12 @@
 ---
 created: 2024-08-15T17:34
-updated: 2024-08-17T17:44
+updated: 2024-08-17T20:23
 ---
 ## Types of Linux File System
 
 There is a wide range of file systems available in Linux, each of which is designed to meet specific needs. We will learn about some of the most common file systems in Linux below :
+
+IOPS - input output processing per second
 
 - **ext2:**  
     The ext2 (extended file system 2) is one of the oldest and most widely used Linux file systems. It has been the default file system for most Linux distributions for many years. The ext2 file system does not have a journal, which means that file recovery can be more difficult after a system crash. However, it is a stable and reliable file system that is ideal for small to medium-sized partitions.
