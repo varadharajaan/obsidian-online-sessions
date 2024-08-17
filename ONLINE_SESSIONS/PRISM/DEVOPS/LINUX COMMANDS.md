@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-17T17:47
+updated: 2024-08-17T18:05
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -87,9 +87,10 @@ updated: 2024-08-17T17:47
 ## Compression and Archiving
 34. **tar** – Archive files.
     - Example: `tar -czvf archive.tar.gz folder/`
-35. **gzip** – Compress files using gzip.
+    - to view the files [in the archive: `tar -tvf archive.tar.gz`]
+1. **gzip** – Compress files using gzip.
     - Example: `gzip file.txt`
-36. **unzip** – Extract a zip archive.
+2. **unzip** – Extract a zip archive.
     - Example: `unzip archive.zip`
 
 ## Package Management
