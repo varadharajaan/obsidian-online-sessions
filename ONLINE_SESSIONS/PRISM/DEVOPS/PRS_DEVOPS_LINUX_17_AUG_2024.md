@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T18:40
-updated: 2024-08-17T19:01
+updated: 2024-08-17T19:16
 ---
 
 
@@ -21,6 +21,11 @@ Monitoring - alarms, datadog, new relic, cloud monitoring
 
 **Virtual Machines & Hosts Machines:**
 
-Host machine 
+Host machine  - actual physical resources available
+Virtual machine 
+
+
+AWS GCP Azure - credit card
+
 
 
