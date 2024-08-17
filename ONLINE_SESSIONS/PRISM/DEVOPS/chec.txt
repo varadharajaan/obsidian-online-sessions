@@ -1,0 +1,8 @@
+
+This is a sample text file.
+It contains several lines for testing file processing commands.
+The quick brown fox jumps over the lazy dog.
+AWK and SED are useful for text processing.
+You can also use FIND to locate files in the system.
+This line contains the word 'sample' multiple times: sample, sample, sample.
+There are different ways to manipulate text using Linux commands.
