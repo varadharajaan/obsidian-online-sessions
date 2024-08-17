@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T17:34
-updated: 2024-08-17T17:29
+updated: 2024-08-17T17:41
 ---
 ## Types of Linux File System
 
@@ -152,3 +152,10 @@ Contains files that are expected to grow in size over time, such as logs, mail s
 Example Files: log/ (system logs like /var/log/syslog), spool/ (print spools), cache/ (cached data).
 Usage: Stores log files, cached files, and other variable files that change frequently during system operation.
 Each directory in this structure is designed to hold specific types of files and directories, making Linux both organized and modular.>)
+
+![[Pasted image 20240817173316.png]]
+
+
+
+
+    
