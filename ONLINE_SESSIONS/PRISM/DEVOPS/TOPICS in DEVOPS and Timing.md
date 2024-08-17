@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T17:34
-updated: 2024-08-17T17:41
+updated: 2024-08-17T17:44
 ---
 ## Types of Linux File System
 
@@ -158,4 +158,3 @@ Each directory in this structure is designed to hold specific types of files and
 
 
 
-    
