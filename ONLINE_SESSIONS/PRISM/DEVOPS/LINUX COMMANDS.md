@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T00:22
+updated: 2024-08-18T15:58
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -146,6 +146,49 @@ grep 'username' /etc/passwd
 
 change user permissions to a file
 sudo chown john:developers report.txt
+
+
+getfacl Documents  # get file permissions
+
+ stat Documents/ # get file permissions
+
+
+|Option|Description|
+|---|---|
+|`-v`|Shows a diagnostic message for every file processed|
+|`-c`|Works like `-v` except it only shows a diagnostic message if any changes are made.|
+|`-f`|Used to suppress most error messages.|
+|`-R`|Used to change files and directories recursively.|
+
+![[Pasted image 20240818155328.png]]
+
+
+![[Pasted image 20240818155336.png]]
+
+
+![[Pasted image 20240818155511.png]]
+
+chmod -v 777 test.txt
+
+| Permission Type        | Symbol |
+| ---------------------- | ------ |
+| No permission          | —      |
+| Execute                | -x     |
+| Write                  | -w-    |
+| Write + Execute        | -wx    |
+| Read                   | r-     |
+| Read + Execute         | r-x    |
+| Read + Write           | rw-    |
+| Read + Write + Execute | rwx    |
+```
+chmod o-x,u+rwx test.txt
+```
+
+`chown <new_user_name> <filename_or_directory_name>`
+
+`chown -R <new_user_name>:<new_group_name> <filename_or_directory_name>`
+
+[change user to root](<sudo chown root test.py>)
 
 
 
