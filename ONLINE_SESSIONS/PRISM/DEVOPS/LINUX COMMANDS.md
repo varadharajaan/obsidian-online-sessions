@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T16:11
+updated: 2024-08-18T16:24
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
