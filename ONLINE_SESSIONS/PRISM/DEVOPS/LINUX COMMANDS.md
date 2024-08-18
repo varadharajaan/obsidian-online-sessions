@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T16:42
+updated: 2024-08-18T18:57
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -179,7 +179,7 @@ chmod -v 777 test.txt
 | Read + Write           | rw-    |
 | Read + Write + Execute | rwx    |
 ```
-chmod o-x,u+rwx test.txt
+chmod o-x,u+rwx g+rw test.txt
 ```
 
 `chown <new_user_name> <filename_or_directory_name>`
