@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T15:58
+updated: 2024-08-18T15:59
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -188,7 +188,8 @@ chmod o-x,u+rwx test.txt
 
 `chown -R <new_user_name>:<new_group_name> <filename_or_directory_name>`
 
-[change user to root](<sudo chown root test.py>)
+sudo chown root test.py
 
 
-
+`chgrp <new_group_name> <filename_or_directory_name>`
+sudo chgrp test test.txt
