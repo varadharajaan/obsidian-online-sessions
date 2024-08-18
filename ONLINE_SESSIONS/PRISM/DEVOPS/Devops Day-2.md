@@ -1,6 +1,6 @@
 ---
 created: 2024-08-18T21:50
-updated: 2024-08-18T22:03
+updated: 2024-08-18T22:08
 ---
 
 
@@ -43,4 +43,18 @@ EC2 - elastic compute cloud
 
 Image
 template
+
+professional laptop
+intel 5 7 gen 12 or AMD 7
+16 GiB RAM
+256 GiB storage
+
+
+
+gaming laptop
+GPU 8 GiB 
+32 GiB RAM
+AMD ryzen 9950 
+1 TiB storage
+
 
