@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T16:24
+updated: 2024-08-18T16:41
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -33,8 +33,6 @@ updated: 2024-08-18T16:24
     - Example: `chown user:group file.txt`
 13. **umask** – Set default file creation permissions.
     - Example: `umask 022`
-
-
 
 ## File Searching and Processing
 14. **find** – Search for files.
