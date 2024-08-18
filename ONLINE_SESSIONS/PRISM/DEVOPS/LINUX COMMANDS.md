@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-17T18:05
+updated: 2024-08-18T00:22
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -143,4 +143,9 @@ grep 'groupname' /etc/group
 
 check user
 grep 'username' /etc/passwd
+
+change user permissions to a file
+sudo chown john:developers report.txt
+
+
 
