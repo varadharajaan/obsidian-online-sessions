@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T15:59
+updated: 2024-08-18T16:11
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -193,3 +193,19 @@ sudo chown root test.py
 
 `chgrp <new_group_name> <filename_or_directory_name>`
 sudo chgrp test test.txt
+
+
+`sudo chgrp test test.txt`
+
+For the <permission_set> part, you can use either of the following combinations:
+
+| Permission Type        | Symbol |
+| ---------------------- | ------ |
+| No permission          | —      |
+| Execute                | -x     |
+| Write                  | -w-    |
+| Write + Execute        | -wx    |
+| Read                   | r-     |
+| Read + Execute         | r-x    |
+| Read + Write           | rw-    |
+| Read + Write + Execute | rwx    |
