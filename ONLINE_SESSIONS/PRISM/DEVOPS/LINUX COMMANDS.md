@@ -1,6 +1,6 @@
 ---
 created: 2024-08-17T17:44
-updated: 2024-08-18T16:41
+updated: 2024-08-18T16:42
 ---
 [](<# Basic Linux Commands Cheat Sheet
 
@@ -207,3 +207,4 @@ For the <permission_set> part, you can use either of the following combinations:
 | Read + Execute         | r-x    |
 | Read + Write           | rw-    |
 | Read + Write + Execute | rwx    |
+
