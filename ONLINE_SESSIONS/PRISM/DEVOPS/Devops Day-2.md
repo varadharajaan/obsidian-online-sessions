@@ -1,6 +1,6 @@
 ---
 created: 2024-08-18T21:50
-updated: 2024-08-18T21:54
+updated: 2024-08-18T22:03
 ---
 
 
@@ -19,4 +19,28 @@ DR - disaster recovery region
 1 core CPU  0.25 GiB RAM
 
 single instance 3096 core CPU 24  TiB RAM
+
+
+ecomm app -> prod ready
+SLA - 96% uptime
+
+99% uptime
+compute instances or virtual machines
+storage accounts & backup
+monitoring
+networking
+database
+dns
+load balancer and multiple instances in different DC
+XDR - 
+
+availability
+elasticity
+
+
+Virtual machine in AWS
+EC2 - elastic compute cloud
+
+Image
+template
 
