@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T08:53
-updated: 2024-08-19T11:20
+updated: 2024-08-19T11:33
 ---
 
 # Useful Git Commands List
@@ -110,3 +110,34 @@ updated: 2024-08-19T11:20
 | `git log --summary`                        | View changes (detailed)        |
 | `git log --oneline`                        | View changes (briefly)         |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+git checkout feature-branch1
+
+git fetch --all
+
+git pull origin main
+
+git merge main
+
+git commit -m "Merged main into feature-branch1"
+
+git push origin feature-branch1
+
+
+git rebase main
+
+git add <file-name>
+
+git rebase --continue
+
+git rebase --abort
+
+git push --force-with-lease origin feature-branch1
+
+cherry pick
+
+git checkout feature-branch2
+
+git log feature-branch1
+
+
+
