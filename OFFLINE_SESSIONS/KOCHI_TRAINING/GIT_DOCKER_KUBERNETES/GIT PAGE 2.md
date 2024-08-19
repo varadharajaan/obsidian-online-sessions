@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T09:07
-updated: 2024-08-19T09:12
+updated: 2024-08-19T09:19
 ---
 
 ```
@@ -84,3 +84,20 @@ Code
 ```
 
 This allows you to interactively edit, squash, or drop commits from the last 3 commits in your branch.
+
+cherry pick commit
+
+```
+
+git log --all --decorate --oneline --graph
+
+git cherry-pick commit-id
+
+git cherry-pick --no-commit <commit SHA number>
+
+```git
+git show 2f410g1
+```
+
+git push origin cherry-pick-commit
+```
