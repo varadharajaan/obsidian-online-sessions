@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T08:53
-updated: 2024-08-19T12:13
+updated: 2024-08-19T12:23
 ---
 
 # Useful Git Commands List
@@ -133,7 +133,8 @@ git rebase --abort
 
 git push --force-with-lease origin feature-branch1
 
-cherry pick
+
+**cherry pick**
 
 git checkout feature-branch2
 
