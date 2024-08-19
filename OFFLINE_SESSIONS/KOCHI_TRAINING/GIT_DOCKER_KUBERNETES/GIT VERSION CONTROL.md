@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T08:53
-updated: 2024-08-19T11:33
+updated: 2024-08-19T11:34
 ---
 
 # Useful Git Commands List
@@ -138,6 +138,10 @@ cherry pick
 git checkout feature-branch2
 
 git log feature-branch1
+
+git cherry-pick abc1234
+
+git push origin feature-branch2
 
 
 
