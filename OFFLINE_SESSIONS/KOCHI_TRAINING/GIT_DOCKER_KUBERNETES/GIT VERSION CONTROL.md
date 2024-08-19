@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T08:53
-updated: 2024-08-19T11:34
+updated: 2024-08-19T12:13
 ---
 
 # Useful Git Commands List
@@ -120,7 +120,7 @@ git merge main
 
 git commit -m "Merged main into feature-branch1"
 
-git push origin feature-branch1
+git push origin feature-branch1  --force
 
 
 git rebase main
