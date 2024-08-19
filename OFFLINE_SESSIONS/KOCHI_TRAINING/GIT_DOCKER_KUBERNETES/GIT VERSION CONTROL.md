@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T08:53
-updated: 2024-08-19T10:25
+updated: 2024-08-19T11:20
 ---
 
 # Useful Git Commands List
@@ -104,9 +104,9 @@ updated: 2024-08-19T10:25
 
 
 
-|Command|Description|
-|---|---|
-|`git log`|View changes|
-|`git log --summary`|View changes (detailed)|
-|`git log --oneline`|View changes (briefly)|
-|`git diff [source branch] [target branch]`|Preview changes before merging|
+| Command                                    | Description                    |
+| ------------------------------------------ | ------------------------------ |
+| `git log`                                  | View changes                   |
+| `git log --summary`                        | View changes (detailed)        |
+| `git log --oneline`                        | View changes (briefly)         |
+| `git diff [source branch] [target branch]` | Preview changes before merging |
