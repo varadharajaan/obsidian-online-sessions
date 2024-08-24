@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-24T21:16
+updated: 2024-08-24T21:30
 ---
 
 before automation - manual setup knowledge is required
@@ -113,7 +113,15 @@ outbound - outgoing /egress
 private IP - internal communication
 public IP  - internet access
 
+for internet access:
+1. public IP for the machine
+2. gateway - internet gateway (IGW)
+3. deploy route table to the subnet and add route to gateway
 
+0.0.0.0/0 -> IGW is called public route
+public route table
+
+when public route table is assigned to subnet, subnet is called public subnet
 
 
 
