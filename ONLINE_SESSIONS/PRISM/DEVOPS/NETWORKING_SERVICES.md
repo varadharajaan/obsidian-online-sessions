@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-24T21:04
+updated: 2024-08-24T21:16
 ---
 
 before automation - manual setup knowledge is required
@@ -106,8 +106,12 @@ CIDR - 10.0.2.0/24
 CIDR - 10.0.255.0/24
 
 
+inbound traffic  - incoming traffic / ingress
+outbound - outgoing /egress
 
 
+private IP - internal communication
+public IP  - internet access
 
 
 
