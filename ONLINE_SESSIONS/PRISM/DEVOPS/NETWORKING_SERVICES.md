@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-24T21:00
+updated: 2024-08-24T21:04
 ---
 
 before automation - manual setup knowledge is required
@@ -57,9 +57,8 @@ last 16 bits are for host - can be changed
 first 20 bits  are fixed for network - cannot be changed
 remaining 12 bits can be changed for host
 
-
-10.0.0.0/16 - 256 groups * of 256 ips = 65536 ips ( ser)
-
+VPC - virtual private cloud/ Virtual network/ Vnet
+10.0.0.0/16 - 256 subnets * of 256 ips = 65536 ips ( servers, databases, etc)
 
 10.0.0.0
 10.0.0.1
@@ -68,12 +67,23 @@ remaining 12 bits can be changed for host
 .
 10.0.0.255 - 256 ips
 
+first 24 bits are fixed
+last 8 bits changing 
+
+
+CIDR - 10.0.0.0/24
+
+
+
+
 10.0.1.0
 10.0.1.1
 10.0.1.2
 .
 .
 10.0.1.255 - 256 ips
+
+CIDR - 10.0.1.0/24
 
 
 10.0.2.0
@@ -82,7 +92,7 @@ remaining 12 bits can be changed for host
 .
 .
 10.0.2.255
-
+CIDR - 10.0.2.0/24
 .
 .
 .
@@ -93,6 +103,7 @@ remaining 12 bits can be changed for host
 .
 10.0.255.255
 
+CIDR - 10.0.255.0/24
 
 
 
