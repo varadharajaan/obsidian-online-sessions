@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T20:09
+updated: 2024-08-25T20:12
 ---
 
 before automation - manual setup knowledge is required
@@ -132,7 +132,7 @@ subnet level firewall - NACL ( (network access control list)
 
 VPC or regional level firewall - WAF ( web application firewall)
 
-Bastion Server:
+Bastion Server
 jump box
 jump server
 
