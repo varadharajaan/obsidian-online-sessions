@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T21:05
+updated: 2024-08-25T21:23
 ---
 
 before automation - manual setup knowledge is required
@@ -137,13 +137,26 @@ jump box
 jump server
 
 
-auto scaling in AWS
+auto scaling in AWS / VMSS - virtual machine scale set 
 load balancer in AWS
 database in AWS
 
 network packets transfered
 request count
 storage IOPS - input output processing per second < 1000
+
+backend pool 
+
+95% - deploy at least in 2AZ
+95 - 99% - more than 2AZ
+more than 99% - DR - disaster recovery
+
+95% - $200
+99% - $500
+99.99% - $800
+99.999% - $1000
+
+
 
 
 
