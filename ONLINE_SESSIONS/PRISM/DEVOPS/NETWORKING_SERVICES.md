@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T19:50
+updated: 2024-08-25T20:09
 ---
 
 before automation - manual setup knowledge is required
@@ -131,6 +131,10 @@ blocks all traffic - by default
 subnet level firewall - NACL ( (network access control list)
 
 VPC or regional level firewall - WAF ( web application firewall)
+
+Bastion Server:
+jump box
+jump server
 
 
 
