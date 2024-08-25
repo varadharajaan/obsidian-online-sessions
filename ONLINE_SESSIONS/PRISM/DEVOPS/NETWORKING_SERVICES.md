@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-24T21:30
+updated: 2024-08-24T21:32
 ---
 
 before automation - manual setup knowledge is required
@@ -115,7 +115,7 @@ public IP  - internet access
 
 for internet access:
 1. public IP for the machine
-2. gateway - internet gateway (IGW)
+2. gateway - internet gateway (IGW) for the virtual network
 3. deploy route table to the subnet and add route to gateway
 
 0.0.0.0/0 -> IGW is called public route
