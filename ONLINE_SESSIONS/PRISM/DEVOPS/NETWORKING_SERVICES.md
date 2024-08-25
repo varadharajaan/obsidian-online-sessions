@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T20:12
+updated: 2024-08-25T20:24
 ---
 
 before automation - manual setup knowledge is required
@@ -136,6 +136,10 @@ Bastion Server
 jump box
 jump server
 
+
+auto scaling in AWS
+load balancer in AWS
+database in AWS
 
 
 
