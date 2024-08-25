@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T22:16
+updated: 2024-08-25T22:23
 ---
 
 before automation - manual setup knowledge is required
@@ -182,3 +182,7 @@ ASG
 min  - 1
 desired - 0 <-- ASG
 max - 5
+```
+monitoring in AWS:
+basic - upto 15 mins - free
+detailed - upto 5 mins - chargeable
