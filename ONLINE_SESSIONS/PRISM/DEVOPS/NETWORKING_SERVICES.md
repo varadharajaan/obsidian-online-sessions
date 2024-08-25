@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T20:24
+updated: 2024-08-25T21:05
 ---
 
 before automation - manual setup knowledge is required
@@ -140,6 +140,11 @@ jump server
 auto scaling in AWS
 load balancer in AWS
 database in AWS
+
+network packets transfered
+request count
+storage IOPS - input output processing per second < 1000
+
 
 
 
