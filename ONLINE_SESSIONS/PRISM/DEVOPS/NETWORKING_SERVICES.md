@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T21:34
+updated: 2024-08-25T22:16
 ---
 
 before automation - manual setup knowledge is required
@@ -178,13 +178,7 @@ systemctl enable httpd
 echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
 
 
-
-
-
-
-
-
-
-
-
-
+ASG
+min  - 1
+desired - 0 <-- ASG
+max - 5
