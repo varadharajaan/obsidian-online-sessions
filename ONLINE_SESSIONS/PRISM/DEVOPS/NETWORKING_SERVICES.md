@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-25T21:23
+updated: 2024-08-25T21:34
 ---
 
 before automation - manual setup knowledge is required
@@ -155,6 +155,28 @@ more than 99% - DR - disaster recovery
 99% - $500
 99.99% - $800
 99.999% - $1000
+
+
+launch template - pre defined template with all configurations
+ami
+instance type
+key pair
+sec group
+network
+storage
+what application to be deployed - mongodb, mysql
+
+bootstrap script or userdata - script to be executed when instance is launched
+```bash
+#!/bin/bash
+# Use this for your user data (script from top to bottom)
+# install httpd (Linux 2 version)
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
+echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
+
 
 
 
