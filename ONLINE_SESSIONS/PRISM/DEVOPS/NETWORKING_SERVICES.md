@@ -1,6 +1,6 @@
 ---
 created: 2024-08-24T20:34
-updated: 2024-08-24T21:32
+updated: 2024-08-25T19:50
 ---
 
 before automation - manual setup knowledge is required
@@ -122,6 +122,17 @@ for internet access:
 public route table
 
 when public route table is assigned to subnet, subnet is called public subnet
+
+
+Instance level firewall - security group
+blocks all traffic - by default
+
+
+subnet level firewall - NACL ( (network access control list)
+
+VPC or regional level firewall - WAF ( web application firewall)
+
+
 
 
 
