@@ -1,6 +1,6 @@
 ---
 created: 2024-08-31T13:12
-updated: 2024-08-31T13:51
+updated: 2024-08-31T14:48
 ---
 
 cloud migration -  moving the production workload from onprem to cloud without or minimal data loss and negligible downtime
@@ -19,6 +19,5 @@ AWS Migration:
 	-  3 to 5 days to get back with the plan - majorly AI generated report - 90% accurate
 	-  manual intervention from AWS support -  10 -20 days
 	- intel, amd, <font color="#d83931">arm64</font>
-	
-	
-	
+
+VM migration - dependencies, OS and application deployed
