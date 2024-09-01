@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T19:28
+updated: 2024-09-01T20:12
 ---
 
 git pull
@@ -31,4 +31,13 @@ git add filename
 git commit -m "msg"
 
 git push origin branchname
+
+
+git checkout main
+
+git pull origin main
+
+git checkout branchname
+
+
 
