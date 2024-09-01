@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T21:36
+updated: 2024-09-01T21:50
 ---
 
 git pull
@@ -63,7 +63,7 @@ pushed -> remote
 git revert <commit_id>
 
 **phase-2**
-CI/CD 
+CI/CD  - semi automation
 infra tools - terraform, ansible
 containerization - docker
 
@@ -75,6 +75,13 @@ complete CI/CD - monitoring, orchestration, logging
 **CI/CD - Continuous Integration/Continuous Deployment**
 
 automate build and deploy tasks
+
+git clone 
+all required files are present
+run test cases
+start the server
+verify the app page is running
+
 
 
 
