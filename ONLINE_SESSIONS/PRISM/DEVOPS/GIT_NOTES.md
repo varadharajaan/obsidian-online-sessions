@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T20:24
+updated: 2024-09-01T20:45
 ---
 
 git pull
@@ -48,6 +48,13 @@ git commit -m "msg"
 git push origin branchname
 
 git merge main
+
+
+git add .
+git commit -m "msg"
+git push origin branchname
+
+git stash
 
 
 
