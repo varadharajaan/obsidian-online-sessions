@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T20:51
+updated: 2024-09-01T21:04
 ---
 
 git pull
@@ -59,6 +59,9 @@ git stash
 uncommited -> wip
 commited -> saved in local git repo
 pushed -> remote
+
+git revert <commit_id>
+
 
 
 
