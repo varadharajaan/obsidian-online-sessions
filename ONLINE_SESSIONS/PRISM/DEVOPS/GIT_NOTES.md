@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T21:30
+updated: 2024-09-01T21:36
 ---
 
 git pull
@@ -62,9 +62,21 @@ pushed -> remote
 
 git revert <commit_id>
 
-
-CI/CD
+**phase-2**
+CI/CD 
 infra tools - terraform, ansible
+containerization - docker
+
+**phase-3:**
+advance cloud services
+complete CI/CD - monitoring, orchestration, logging
+
+
+**CI/CD - Continuous Integration/Continuous Deployment**
+
+automate build and deploy tasks
+
+
 
 
 
