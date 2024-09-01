@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T21:04
+updated: 2024-09-01T21:30
 ---
 
 git pull
@@ -62,6 +62,9 @@ pushed -> remote
 
 git revert <commit_id>
 
+
+CI/CD
+infra tools - terraform, ansible
 
 
 
