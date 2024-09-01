@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T18:43
-updated: 2024-09-01T20:45
+updated: 2024-09-01T20:51
 ---
 
 git pull
@@ -55,6 +55,10 @@ git commit -m "msg"
 git push origin branchname
 
 git stash
+
+uncommited -> wip
+commited -> saved in local git repo
+pushed -> remote
 
 
 
