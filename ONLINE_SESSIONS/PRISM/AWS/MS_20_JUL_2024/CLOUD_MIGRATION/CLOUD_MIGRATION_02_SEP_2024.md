@@ -1,6 +1,6 @@
 ---
 created: 2024-09-01T12:32
-updated: 2024-09-01T13:58
+updated: 2024-09-01T14:22
 ---
 Storage Migration:
 
@@ -9,3 +9,6 @@ Storage Migration:
 3. 
 4. snowball family
 5. storage gateway
+
+petabyte data
+public internet transfer not applicable
