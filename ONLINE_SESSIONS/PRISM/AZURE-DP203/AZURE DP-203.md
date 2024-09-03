@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-03T08:28
+updated: 2024-09-03T08:29
 ---
 
 data and data related services
@@ -43,5 +43,5 @@ files
 table
 
 user - owner
-group
-others
+group - 
+others - 
