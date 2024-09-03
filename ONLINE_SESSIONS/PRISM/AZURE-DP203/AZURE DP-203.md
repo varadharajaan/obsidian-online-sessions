@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-03T08:07
+updated: 2024-09-03T08:11
 ---
 
 data and data related services
@@ -14,6 +14,8 @@ Kusto queries
 data factory - ADF - handson project
 spark programming
 synapse - handson project
+(previous version is HDI)
+
 databricks - handson project
 
 
@@ -30,6 +32,8 @@ data lakehouse - group of data lake
 major file types
 **flat  files - parquet, csv**
 json files
+
+ETL - 
 
 **Azure Storage Account:**
 
