@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-03T08:11
+updated: 2024-09-03T08:28
 ---
 
 data and data related services
@@ -37,3 +37,11 @@ ETL -
 
 **Azure Storage Account:**
 
+blob - containers/folders
+queue
+files
+table
+
+user - owner
+group
+others
