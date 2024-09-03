@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-03T09:08
+updated: 2024-09-03T09:09
 ---
 
 data and data related services
@@ -50,5 +50,5 @@ To sign in, use a web browser to open the page https://microsoft.com/devicelogin
 
 
 az storage container create --account-name demostoragevd --name varadv3 --account-key 
-
+Vt7PfKDE00cIv5elQldmsrG8novwYb+mafGX/XwjklaaoYPCMJ99sCUySpyfAc5GmXEteyadDSOo+AStpd/teQ==
 
