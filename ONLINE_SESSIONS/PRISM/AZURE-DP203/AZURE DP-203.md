@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-03T08:29
+updated: 2024-09-03T08:51
 ---
 
 data and data related services
@@ -45,3 +45,6 @@ table
 user - owner
 group - 
 others - 
+
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code ABC123DEF to authenticate.
+
