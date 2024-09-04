@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-04T07:34
+updated: 2024-09-04T08:34
 ---
 
 data and data related services
@@ -49,8 +49,9 @@ others -
 To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code ABC123DEF to authenticate.
 
 
-az storage container create --account-name demostoragevd --name varadv3 --account-key 
-Vt7PfKDE00cIv5elQldmsrG8novwYb+mafGX/XwjklaaoYPCMJ99sCUySpyfAc5GmXEteyadDSOo+AStpd/teQ==
-
+LRS 
+ZRS
+GRS -
+GZRS - 
 
 
