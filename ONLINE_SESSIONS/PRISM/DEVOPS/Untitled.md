@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T18:56
+updated: 2024-09-21T19:33
 ---
 
 
@@ -22,3 +22,12 @@ Docker containers
 Installation of Docker:
 - Docker Desktop (windows)
 - Docker Engine
+
+Docker commands:
+docker build  
+docker pull image_name
+docker run image_name
+docker push image_name
+
+git pull
+git push -> remote_url
