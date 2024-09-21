@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T22:01
+updated: 2024-09-21T22:12
 ---
 
 
@@ -12,6 +12,7 @@ how to build different programming applications
 
 Containerization and Orchestration
 -  Docker - continersation tool - conterinerd, packer, runc
+- docker compose
 - Kubernetes or K8s - orchestration tool
 
 Docker containers
