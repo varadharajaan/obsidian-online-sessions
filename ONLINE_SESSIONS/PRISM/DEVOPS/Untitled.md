@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T20:16
+updated: 2024-09-21T20:22
 ---
 
 
@@ -36,3 +36,5 @@ git push -> remote_url
 docker image - bundled version of your app and depdencies
 docker container - running version of image in mini linux VM
 
+how to execute the existing docker image from docker repo
+how to build custom docker image and publish to repo and pull & run in VM
