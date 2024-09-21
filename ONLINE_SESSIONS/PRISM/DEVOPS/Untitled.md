@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T18:41
+updated: 2024-09-21T18:56
 ---
 
 
@@ -12,7 +12,13 @@ how to build different programming applications
 - node
 
 Containerization and Orchestration
--  Docker - continersation tool
+-  Docker - continersation tool - conterinerd, packer, runc
 - Kubernetes or K8s - orchestration tool
 
-Docker
+Docker containers
+- **Linux container**
+- Windows container
+
+Installation of Docker:
+- Docker Desktop (windows)
+- Docker Engine
