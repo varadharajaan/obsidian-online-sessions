@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T21:23
+updated: 2024-09-21T22:01
 ---
 
 
@@ -40,3 +40,5 @@ how to build custom docker image and publish to repo and pull & run in VM\
 
 
 h2 DB - in memory DB
+
+username/image-name:tag
