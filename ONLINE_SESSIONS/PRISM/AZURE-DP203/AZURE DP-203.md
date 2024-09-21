@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T07:38
-updated: 2024-09-04T08:34
+updated: 2024-09-04T17:25
 ---
 
 data and data related services
@@ -27,7 +27,6 @@ data warehouse
 data lake 
 data mart - group of warehouse
 data lakehouse - group of data lake
-
 
 major file types
 **flat  files - parquet, csv**
