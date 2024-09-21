@@ -1,12 +1,11 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-21T20:22
+updated: 2024-09-21T21:03
 ---
 
 
 how to build different programming applications
 -  java - jar
-- golang - .pkg
 - python - .zip .pkg
 - dotnet
 - node
