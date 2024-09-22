@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T20:15
+updated: 2024-09-22T20:30
 ---
 
 
@@ -58,5 +58,16 @@ cmd - the value be overridden by the command line arguments
 
 docker run varad/todoapp  app.js
 
+java - maven build or packager
+node - package.json
+python - requirements.txt
 
+docker for python file
+1. base image - python
+2. MAINTAINER - author name
+3. workdir - /app
+4. COPY req.txt     /app/.
+5. COPY app.py    /app/app.py 
+6. RUN pip install -r req.txt
+7. ENTRYPOINT python app.py
 
