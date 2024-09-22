@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T18:58
+updated: 2024-09-22T20:15
 ---
 
 
@@ -57,4 +57,6 @@ npm install
 cmd - the value be overridden by the command line arguments
 
 docker run varad/todoapp  app.js
+
+
 
