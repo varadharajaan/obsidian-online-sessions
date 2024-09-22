@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T20:32
+updated: 2024-09-22T20:54
 ---
 
 
@@ -76,3 +76,6 @@ docker for python file
 6. RUN pip install -r req.txt
 7. ENTRYPOINT python app.py
 
+COPY vs ADD in docker
+COPY - copy files from host to container
+ADD - copy files from host to container and extract the files
