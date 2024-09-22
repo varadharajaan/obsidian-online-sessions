@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T18:51
+updated: 2024-09-22T18:58
 ---
 
 
@@ -51,6 +51,10 @@ node app docker file
 3. copy server.js package.json package.lock.json to docker
 4. copy . .
 5. run node server.js
+mvn clean install 
+npm install 
 
+cmd - the value be overridden by the command line arguments
 
+docker run varad/todoapp  app.js
 
