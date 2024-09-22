@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T20:30
+updated: 2024-09-22T20:32
 ---
 
 
@@ -55,6 +55,11 @@ mvn clean install
 npm install 
 
 cmd - the value be overridden by the command line arguments
+
+python app.py
+python server.py
+
+java app.py
 
 docker run varad/todoapp  app.js
 
