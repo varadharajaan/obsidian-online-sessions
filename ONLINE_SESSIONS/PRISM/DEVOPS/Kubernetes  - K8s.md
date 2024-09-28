@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-28T20:54
+updated: 2024-09-28T21:09
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -24,7 +24,10 @@ Kube Scheduler:
 -> will override the expose port in docker
 
 service in kubernetes
-- clusterIP
-- nodeport
-- loadbalancer
-- 
+- clusterIP - private IP - default
+- nodeport - node ip address to access pod
+- loadbalancer - aws load balancer to route traffic to pod
+
+
+when you create nodeport, clusterip is created by default
+when you create load balancer, nodeport is created. 
