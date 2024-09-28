@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-28T18:49
+updated: 2024-09-28T19:05
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -12,3 +12,11 @@ GCP - GKE - - Google Kubernetes Engine
 OCI - OKE -- - Oracle Kubernetes Engine
 
 
+Kube Controllers:
+- ReplicaSet
+- Deployment
+- StatefulSet
+- DaemonSet
+- Job
+
+Kube Scheduler:
