@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21T18:36
-updated: 2024-09-22T20:54
+updated: 2024-09-22T22:09
 ---
 
 
@@ -79,3 +79,9 @@ docker for python file
 COPY vs ADD in docker
 COPY - copy files from host to container
 ADD - copy files from host to container and extract the files
+
+Kubernetes - container orchestrator
+-  vote - replica 1
+- worker - replica 2
+- result - replica 1
+- postgres - replica 1
