@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-28T20:48
+updated: 2024-09-28T20:54
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -23,3 +23,8 @@ Kube Scheduler:
 
 -> will override the expose port in docker
 
+service in kubernetes
+- clusterIP
+- nodeport
+- loadbalancer
+- 
