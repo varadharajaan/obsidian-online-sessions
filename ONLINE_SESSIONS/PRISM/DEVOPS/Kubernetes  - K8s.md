@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-29T19:45
+updated: 2024-09-29T20:29
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -43,8 +43,8 @@ volumes
 liveprobeness - 
 readyprobeness - 
 
-configmap
-secrets
+configmap - key -value pair
+secrets - key-value pair
 
 Volumes in Kubernetes:
 Persistence Volume - control plane txn - 100GiB ebs 
@@ -54,3 +54,9 @@ PV->PVC->POD
 
 POD - stateless - deployment
 statefulset 
+
+map()
+(id1,varad)
+(id2,prashant)
+
+map.get(id1) = varad
