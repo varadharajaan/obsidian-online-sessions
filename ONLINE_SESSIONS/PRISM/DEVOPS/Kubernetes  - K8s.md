@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-28T21:09
+updated: 2024-09-29T18:47
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -31,3 +31,10 @@ service in kubernetes
 
 when you create nodeport, clusterip is created by default
 when you create load balancer, nodeport is created. 
+
+namespace
+service
+pod
+configmap
+secrets
+volumes
