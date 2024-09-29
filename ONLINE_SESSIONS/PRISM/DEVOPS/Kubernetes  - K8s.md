@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-29T19:25
+updated: 2024-09-29T19:45
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -51,3 +51,6 @@ Persistence Volume - control plane txn - 100GiB ebs
 Persistence Volume-Claim - data plan txn - 30GiB -> MYSQL POD
 
 PV->PVC->POD
+
+POD - stateless - deployment
+statefulset 
