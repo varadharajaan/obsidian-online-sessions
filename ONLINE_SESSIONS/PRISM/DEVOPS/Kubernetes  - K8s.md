@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-29T20:29
+updated: 2024-09-29T20:47
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -60,3 +60,5 @@ map()
 (id2,prashant)
 
 map.get(id1) = varad
+
+affinity in k8s 
