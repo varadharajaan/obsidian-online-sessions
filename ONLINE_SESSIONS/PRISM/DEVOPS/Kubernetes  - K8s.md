@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28T18:38
-updated: 2024-09-29T18:47
+updated: 2024-09-29T19:19
 ---
 
 delete container - docker, docker compose - cannot bring it back 
@@ -38,3 +38,10 @@ pod
 configmap
 secrets
 volumes
+
+
+liveprobeness - 
+readyprobeness - 
+
+configmap
+secrets
