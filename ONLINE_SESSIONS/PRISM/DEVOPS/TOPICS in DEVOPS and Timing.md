@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T17:34
-updated: 2024-08-17T20:34
+updated: 2024-11-11T22:24
 ---
 ## Types of Linux File System
 
@@ -157,6 +157,9 @@ Each directory in this structure is designed to hold specific types of files and
 
 ![[Pasted image 20240817173316.png]]
 
+object storage
+file system
+block storage
 
 SFTP 
 FTP servers
