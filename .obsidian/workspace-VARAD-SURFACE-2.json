@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "7b34ff655c280924",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab3e4f426bf041d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190ff18c3f19cd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ONLINE_SESSIONS/PRISM/DEVOPS/TOPICS in DEVOPS and Timing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOPICS in DEVOPS and Timing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c44b65a9a3058571",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6767df60b5dc2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8749a706213b85da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d0460279a4db7bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4b56bd1385f6b379",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "cd3dc3909dec8e57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a5c84f7f6c3f681",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.50694274902344
+  },
+  "right": {
+    "id": "8c355522c7c76372",
+    "type": "split",
+    "children": [
+      {
+        "id": "e558de6dfb394d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6c157852553c99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ONLINE_SESSIONS/PRISM/DEVOPS/Terraform in AWS.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Terraform in AWS"
+            }
+          },
+          {
+            "id": "295b213a97efa156",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ONLINE_SESSIONS/PRISM/DEVOPS/Terraform in AWS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Terraform in AWS"
+            }
+          },
+          {
+            "id": "23a163ce14cacce4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3acb57555f52709a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ONLINE_SESSIONS/PRISM/DEVOPS/Terraform in AWS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Terraform in AWS"
+            }
+          },
+          {
+            "id": "f6cababf5e58a27c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "86b41b26a42141cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "explorer-hider:Disable hiding": false,
+      "excel:Create Excel File": false,
+      "obsidian-importer:Open Importer": false,
+      "local-backup:Run local backup": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-dropbox-backups:Backup to Dropbox": false
+    }
+  },
+  "active": "190ff18c3f19cd58",
+  "lastOpenFiles": [
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Scripting commands.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/PRS_DEVOPS_LINUX_17_AUG_2024.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/NETWORKING_SERVICES.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/LINUX COMMANDS.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/GIT VERSION.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/file processing commands.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Docker.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Devops Day-2.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/bash_notes.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Bash Scripting Examples.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/bash basic scripting.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/user and groups in linux.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Terraform in AWS.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/Kubernetes  - K8s.md",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES/GIT VERSION CONTROL.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/DOCKER-21-SEP-2024.md",
+    "ONLINE_SESSIONS/PRISM/AZURE-DP203/AZURE DP-203.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/GIT_NOTES.md",
+    "ONLINE_SESSIONS/PRISM/AZURE-DP203",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/GIT VERSION CONTROL.md",
+    "ONLINE_SESSIONS/PRISM/AWS/MS_20_JUL_2024/CLOUD_MIGRATION/CLOUD_MIGRATION_02_SEP_2024.md",
+    "ONLINE_SESSIONS/PRISM/AWS/MS_20_JUL_2024/CLOUD_MIGRATION/CLOUD_MIGRATION_01_SEP_2024.md",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES/GIT PAGE 2.md",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES/GIT VERSION.md",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES/Docker.md",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES/GIT.md",
+    "ONLINE_SESSIONS/PRISM/AWS/MS_20_JUL_2024/CLOUD_MIGRATION",
+    "ONLINE_SESSIONS/PRISM/AWS/Untitled",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/BATCH_17_AUGUST_2024/DEVOPS_24_AUGUST_2024.md",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/BATCH_17_AUGUST_2024",
+    "OFFLINE_SESSIONS/KOCHI_TRAINING/GIT_DOCKER_KUBERNETES",
+    "Pasted image 20240818155511.png",
+    "Pasted image 20240818155336.png",
+    "Pasted image 20240818155328.png",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/chec.txt",
+    "ONLINE_SESSIONS/PRISM/DEVOPS/desktop.ini",
+    "ONLINE_SESSIONS/PRISM/DEVOPS",
+    "Pasted image 20240817173316.png",
+    "DEVOPS",
+    "ONLINE_SESSIONS/PRISM/AWS/test",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg"
+  ]
+}
